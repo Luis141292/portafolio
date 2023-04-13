@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(18, 18, 19);
+  color: aliceblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.navp {
+  padding: 0 50px 0px 30px;
+}
+.titulo1 {
+  font-family: Helvetica;
+  font-style: initial;
+  font-weight: bolder;
+  font-size: 23px;
+}
+
+.uno {
+  margin: 40px;
+  text-align: center;
+  font-family: fantasy;
+}
+
+.estilo {
+  width: 25%;
+  border-radius: 50%;
+}
